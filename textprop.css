@@ -1,0 +1,23 @@
+ /* line height */
+/* letter spacing */
+/* word spacing */ 
+/* text transform */
+/* word transform */
+
+.one{
+    line-height: 0.5rem;
+
+}
+.two{
+    letter-spacing: 5px;
+}
+.three{
+    word-spacing: 5px;
+
+}
+h1{
+    text-transform: uppercase;
+}
+a{
+     text-decoration: none;
+} 
